@@ -1,0 +1,22 @@
+Keep all source codes  and "winequality-red.csv" in same folder
+
+First execute part1.py
+command : python3 part1.py
+This will create two csv file named
+dataset_A.csv and dataset_B.csv
+
+Then execute part2.py 
+command : python3 part2.py
+This will run my implemented logistic 
+regression and sklearn logistic regression.
+And this will save accuracy , precision and recall in 
+file named result2.txt
+
+Then execute part3.py 
+command : python3 part3.py
+This will run my implemented ID3 algo
+and sklearn Tree classifier.
+And this will save accuracy , precision and recall in 
+file named result3.txt
+
+
